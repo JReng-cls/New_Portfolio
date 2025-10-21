@@ -1,0 +1,14 @@
+{
+  "archived_on": "2025-10-21",
+  "items": [
+    "_posts/*",
+    "_publications/*",
+    "_talks/*",
+    "_teaching/*",
+    "_drafts/*",
+    "_portfolio/*",
+    "talkmap/*",
+    "_pages/talkmap.html",
+    "files/bibtex1.bib (copied), PDFs listed in files/README_ARCHIVE.txt"
+  ]
+}

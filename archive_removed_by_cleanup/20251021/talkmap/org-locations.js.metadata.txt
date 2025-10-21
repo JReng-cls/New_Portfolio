@@ -1,0 +1,3 @@
+archived original org-locations.js (text copy)
+size: small
+archived_path: talkmap/org-locations.js
